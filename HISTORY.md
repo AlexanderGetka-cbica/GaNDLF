@@ -1,5 +1,5 @@
 ## 0.0.15
-- Updated `setup.py` for `python>=3.8`
+- Updated `setup.py` for `python>=3.8` 
 - `stride_size` is now handled internally for histology data
 - Probability maps are now saved overlaid with original WSI
 - Added ability to print model size and summary at run-time
